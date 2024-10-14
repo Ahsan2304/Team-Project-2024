@@ -4,6 +4,7 @@ project collaborative [software engineering]
 ## project objectives 
 [1. Practical experience with Version Control:
    - Give you hands-on experience in using Git, one of the most popular version control systems in the software development industry.
+     
  2.Team Collaboration in Software Development:
    - Simulates a collaborative software development environment similar to what you will encounter in the professional world.
  3. Introduction to GitHub as a Collaboration Platform:
