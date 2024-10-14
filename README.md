@@ -1,22 +1,16 @@
 # Team-Project-2024
-project collaborative [software engineering]
+project [software engineering]
 
 ## project objectives 
-[1. Practical experience with Version Control:
-   - Give you hands-on experience in using Git, one of the most popular version control systems in the software development industry.
-     
- 2.Team Collaboration in Software Development:
-   - Simulates a collaborative software development environment similar to what you will encounter in the professional world.
- 3. Introduction to GitHub as a Collaboration Platform:
-   - Introduces you to GitHub, a repository hosting platform that is essential in the tech industry. ]
+In this project we learn about how to use modern HTML, CSS, and JavaScript to create a complete Login Page Design with Login and Sign up animations.
 
 ## Anggota Tim
 - [Ahsan Syafii Rusdin] (ahsan.rusdin@student.president.ac.id)
 - [Dannis Surya Ridfan] (7c.08dannis@gmail.com)
-- [Nama Anggota 3] (@username_@github3)
+- [Pieter] (pieter1234098@gmail.com)
 
 
 ## Pembagian Tugas
-- [Ahsan ]: [login page]
-- [Nama Anggota 2]: [Deskripsi tugas]
+- [Ahsan ]: [html]
+- [Nama Anggota 2]: [js and css]
 - [Nama Anggota 3]: [Deskripsi tugas]
