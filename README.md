@@ -17,6 +17,6 @@ project collaborative [software engineering]
 
 
 ## Pembagian Tugas
-- [Nama Anggota 1]: [Deskripsi tugas]
+- [Ahsan ]: [login page]
 - [Nama Anggota 2]: [Deskripsi tugas]
 - [Nama Anggota 3]: [Deskripsi tugas]
