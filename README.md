@@ -12,5 +12,5 @@ In this project we learn about how to use modern HTML, CSS, and JavaScript to cr
 
 ## Division of tasks
 - [Ahsan Syafii Rusdin] : [html]
-- [Nama Anggota 2]: [css]
+- [Dannis Surya Ridfan]: [css]
 - [Pieter] : [Js]
