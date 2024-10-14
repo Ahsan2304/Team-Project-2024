@@ -1,8 +1,6 @@
 # Team-Project-2024
 project collaborative [software engineering]
 
-# Team-Project-2024
-
 ## project objectives 
 [1. Practical experience with Version Control:
    - Give you hands-on experience in using Git, one of the most popular version control systems in the software development industry.
