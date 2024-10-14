@@ -12,7 +12,7 @@ project collaborative [software engineering]
 
 ## Anggota Tim
 - [Ahsan Syafii Rusdin] (ahsan.rusdin@student.president.ac.id)
-- [Nama Anggota 2] (@username_github2)
+- [Dannis Surya Ridfan] (7c.08dannis@gmail.com)
 - [Nama Anggota 3] (@username_@github3)
 
 
